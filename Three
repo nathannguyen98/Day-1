@@ -1,0 +1,18 @@
+
+public class Three extends Two{
+
+	
+	int C;
+	
+	public Three() {
+		System.out.println("Welcome to three");
+	}
+	
+	public Three(int A) {
+		System.out.println("This is the second constructor of three");
+		
+	
+	}
+	
+	
+}

@@ -1,0 +1,15 @@
+
+public class Two extends One {
+
+	public Two() {
+		System.out.println("This is the first constructor of two");
+		
+	}
+	
+	public Two(int A) {
+		System.out.println("This is the first constructor of two");
+		
+	
+	}
+	
+}

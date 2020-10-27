@@ -1,0 +1,18 @@
+public class One {
+
+	int A;
+	
+	public One() {
+		
+	System.out.println("Welcome to the 1st constructor of One");	
+	
+	}
+	
+	public One(int A) {
+		
+	System.out.println("Welcome to the 2nd constructor of One");	
+	
+	}
+	
+	
+}
